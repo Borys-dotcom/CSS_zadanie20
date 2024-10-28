@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+
+#glownyTytul{
+    background-color: lightblue;
+    color: blue;
+}
+
+#paragraf1{
+    background-color: lightsalmon;
+    color: green;
+}
+
+#paragraf2{
+    background-color: beige;
+    color: brown;
+}
+
+#podtytul{
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+
+#lista{
+    background-color: lightgreen;
+    color: chocolate;
+}
